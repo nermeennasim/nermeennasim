@@ -68,7 +68,7 @@ I’m passionate about helping businesses leverage **technology and design** to 
 ---
 
 ### 🤝 Let’s Connect
-🌍 [Portfolio](https://its-all-about-me-nermeen-nasim.vercel.app/)  
+🌍 [Portfolio](https://its-all-about-me-nermeennasim.vercel.app/)  
 💼 [LinkedIn](https://www.linkedin.com/in/n-nasim)  
 📝 [Medium](https://medium.com/@nermeennasim)  
 🐦 [X (Twitter)](https://www.x.com/blusproutagency)  
